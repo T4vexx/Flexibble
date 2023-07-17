@@ -1,5 +1,3 @@
-![image](https://github.com/T4vexx/Flexibble/assets/68335367/f8071e73-0329-4852-aece-41cf2e493e51)This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
 ## Getting Started
 
 First, run the development server:
