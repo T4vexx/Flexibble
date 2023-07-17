@@ -36,8 +36,8 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 ## Visual 
 <div align="center">
-  ![image](https://github.com/T4vexx/Flexibble/assets/68335367/bb450517-97a8-492f-bfc8-8d1cfb3f6f6d)
-  ![image](https://github.com/T4vexx/Flexibble/assets/68335367/ca9db405-16a0-4119-a814-5f901a614814)
+  https://github.com/T4vexx/Flexibble/assets/68335367/bb450517-97a8-492f-bfc8-8d1cfb3f6f6d
+  https://github.com/T4vexx/Flexibble/assets/68335367/ca9db405-16a0-4119-a814-5f901a614814
   ![image](https://github.com/T4vexx/Flexibble/assets/68335367/13aaf895-6e52-4fea-9292-a9edfafba6b3)
   ![image](https://github.com/T4vexx/Flexibble/assets/68335367/546b7e59-63e0-42ad-979a-94286397a19a)
   ![image](https://github.com/T4vexx/Flexibble/assets/68335367/20dac2e9-4410-446c-baef-957cc250ec95)
